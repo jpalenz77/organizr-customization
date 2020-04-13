@@ -29,7 +29,9 @@ div[class*="fc"] .text-danger {
     color: #ff4747 !important;
 }
 
+
 a {
-    color: #53e69d !important;
-  
+    color: #53e69d;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
 }
