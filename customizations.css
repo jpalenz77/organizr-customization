@@ -1,0 +1,28 @@
+.left-health {
+   display: none;
+}
+
+.lazyload:not(.homepageImageTitle) {
+    background-color: transparent !important;
+}
+
+.card, .card-body {
+        background: transparent !important;
+        height: 20px;
+    }
+.bg-inverse {
+        background: transparent !important;
+    }
+
+
+
+/* Missing episode that hasn't aired */
+div[class*="fc"] .text-info {
+  color: #BD0808 !important;
+}
+/* Missing episode that has aired */
+div[class*="fc"] .text-danger {
+  color: #BD0808 !important;
+}
+    
+    
