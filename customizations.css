@@ -28,3 +28,8 @@ div[class*="fc"] .text-danger {
     div[class*="fc"] .text-primary {
     color: #ff4747 !important;
 }
+
+a {
+    color: #53e69d !important;
+  
+}
