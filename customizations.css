@@ -18,15 +18,15 @@
 
 /* Missing episode that hasn't aired */
 div[class*="fc"] .text-info {
-  color: #ff4747 !important;
+  color: #ff8080 !important;
 }
 /* Missing episode that has aired */
 div[class*="fc"] .text-danger {
-  color: #ff4747 !important;
+  color: #ff8080 !important;
 }
     
     div[class*="fc"] .text-primary {
-    color: #ff4747 !important;
+    color: #ff8080 !important;
 }
 
 
