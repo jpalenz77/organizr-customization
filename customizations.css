@@ -47,13 +47,13 @@ a {
 
 .homepage-tautulli-card .scrollable {
    
-    margin-left: 3px;
+    margin-left: 5px;
 }
 
 
  .bg-img {
     display: none;
-    border: none;
+    border: 0px;
 }
 
 
