@@ -40,3 +40,7 @@ a {
 #speedtest-area .ti-download, .has-success .checkbox, .has-success .checkbox label, .has-success .checkbox-inline, .has-success .control-label, .has-success .help-block, .has-success .radio, .has-success .radio-inline, .has-success.checkbox-inline label, .has-success.radio label, .has-success.radio-inline label, .text-success {
     color: #53e69d;
 }
+
+.mb-3, .my-3 {
+    margin-bottom: 12rem !important;
+}
