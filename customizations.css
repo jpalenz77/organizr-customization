@@ -49,3 +49,18 @@ a {
    
     margin-left: none;
 }
+
+
+
+
+.homepage-tautulli-card .card {
+    position: static;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: inherit;
+    background-clip: border-box;
+    border: 0 solid transparent;
+    border-radius: 0;
+}
