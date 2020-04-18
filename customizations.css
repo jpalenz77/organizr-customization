@@ -47,12 +47,9 @@ a {
 
 .homepage-tautulli-card .scrollable {
    
-    margin-left: none;
+    margin-left: 0px;
 }
 
 
 
-.card {
-    position: none;
-   
-}
+
