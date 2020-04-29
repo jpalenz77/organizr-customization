@@ -71,3 +71,6 @@ a {
     height: 25px;
     font-size: 14px;
 }
+#allSpeedtest .pull-left homepage-element-title {
+   display: none;
+}
