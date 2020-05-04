@@ -81,3 +81,6 @@ a {
 #allMonitorr {
     padding-bottom: 32px;
 }
+.all-netdata .gauge-cont.chart-lg {
+    width: 200%;
+}
