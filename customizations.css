@@ -86,3 +86,8 @@ a {
 .all-netdata .chart-lg .gauge-chart, .all-netdata .gauge-cont.chart-lg {
     width: 450px !important;
 }
+
+.all-netdata .chart-lg .gauge-chart .gauge-value {
+    top: 90px !important;
+    font-size: 26px;
+}
