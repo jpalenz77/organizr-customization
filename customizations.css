@@ -84,7 +84,5 @@ a {
 
 
 .all-netdata .chart-lg .gauge-chart, .all-netdata .gauge-cont.chart-lg {
-    //: ;
-    height: 300px;
-    width: 450px;
+    width: 450px !important;
 }
