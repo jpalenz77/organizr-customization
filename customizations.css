@@ -91,3 +91,11 @@ a {
     top: 90px !important;
     font-size: 26px;
 }
+
+#menu-GitHub-Repo i {
+    display: none;
+}
+
+#menu-Organizr-Docs i {
+     display: none;
+}
