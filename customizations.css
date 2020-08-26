@@ -94,5 +94,5 @@ a {
 
 @media screen and (min-width: 768px)
 .iframe, .chat-main-box {
-    height: 0vh !important; 
+    height: none !important; 
 }
