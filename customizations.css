@@ -1,9 +1,9 @@
- .login-register {
-    background:url('https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png');
-    background-repeat:no-repeat;
-    background-attachment:fixed;
-    background-position:center;
-} 
+.login-register {
+    background: url("https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png") center center/cover no-repeat!important;
+    height: 100%;
+    position: fixed;
+}
+
 
 .login-register h1 {
     display: none;
