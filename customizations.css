@@ -1,7 +1,6 @@
-:root {
-    --login-bg: url("https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png");
+.login-register {
+     background: url("https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png") center center/cover no-repeat !important; 
 }
-
 
 .left-health {
    display: none;
