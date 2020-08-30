@@ -1,3 +1,7 @@
+.login-register h1 {
+    display: none;
+}
+
 
 .login-register {
     background-image:url('https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png');
