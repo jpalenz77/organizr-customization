@@ -1,6 +1,10 @@
+
 .login-register {
-     background: url("https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png") center center/cover no-repeat !important; 
-}
+    background-image:url('https://raw.githubusercontent.com/jpalenz77/organizr-customization/master/background.png');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+} 
 
 .left-health {
    display: none;
