@@ -81,9 +81,9 @@ a {
        height: 0;
 }
 
-@media (min-width: 2000px)
-.col-xl-3 {
-    -ms-flex: 0 0 0%;
+
+.homepage-tautulli-card .col-xl-3 {
+    ms-flex: 0 0 0%;
     flex: 0 0 0%;
     max-width: 0%;
 }
