@@ -83,6 +83,7 @@ a {
 
 
 .allTautulli .el-element-overlay row .tautulliCards col-sm 12 my -3 .row tautulliTop .col-xl-3 {   
+    ms-flex: 0 0 0% !important;
     flex: 0 0 0% !important;
     max-width: 0% !important;
 }
