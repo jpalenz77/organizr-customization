@@ -80,3 +80,10 @@ a {
 .homepage-tautulli-card .card, .card-body {
        height: 0;
 }
+
+@media (min-width: 2000px)
+.col-xl-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 0;
+    max-width: 0;
+}
