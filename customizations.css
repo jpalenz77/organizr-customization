@@ -103,3 +103,9 @@ a {
     font-size: 26px;
 }
 
+@media (min-width: 2000px)
+.col-xl-3 {
+    -ms-flex: 0 0 25%;
+    /* flex: 0 0 25%; */
+    /* max-width: 25%; */
+}
