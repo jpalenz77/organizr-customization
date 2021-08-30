@@ -82,8 +82,7 @@ a {
 }
 
 
-.tautulliCards .col-xl-3 {
-    ms-flex: 0 0 0% !important;
+.tautulliCards .col-xl-3 {   
     flex: 0 0 0% !important;
     max-width: 0% !important;
 }
