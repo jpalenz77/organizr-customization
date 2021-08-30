@@ -78,10 +78,10 @@ a {
     font-size: 20px;
 }
 
-#.homepage-tautulli-card .tautulliFirstItem {
-   # height: 25px;
-  #  font-size: 14px;
-#}
+.homepage-tautulli-card .tautulliFirstItem {
+    height: 25px;
+    font-size: 14px;
+}
 
 
 #allSpeedtest {
