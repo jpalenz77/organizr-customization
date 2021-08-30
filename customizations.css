@@ -80,10 +80,3 @@ a {
 .homepage-tautulli-card .card, .card-body {
        height: 0;
 }
-
-
-
-.homepage-tautulli-card .tautulliFirstItem {
-    height: 25px;
-    font-size: 14px;
-}
