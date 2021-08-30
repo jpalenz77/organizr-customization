@@ -59,4 +59,31 @@ a {
 }
 
 
+.homepage-tautulli-card{
+    margin-bottom: 17rem !important;
+}
 
+.homepage-tautulli-card .scrollable {
+   
+    margin-left: 9px;
+}
+
+
+ .bg-img {
+    display: none;
+   }
+
+ .homepage-tautulli-card .bg-img-cont {
+    border: 0;
+}
+
+.homepage-tautulli-card .card, .card-body {
+       height: 0;
+}
+
+
+
+.homepage-tautulli-card .tautulliFirstItem {
+    height: 25px;
+    font-size: 14px;
+}
