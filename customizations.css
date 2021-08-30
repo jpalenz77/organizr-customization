@@ -48,51 +48,6 @@ a {
 }
 
 
-#speedtest-area .ti-download, .has-success .checkbox, .has-success .checkbox label, .has-success .checkbox-inline, .has-success .control-label, .has-success .help-block, .has-success .radio, .has-success .radio-inline, .has-success.checkbox-inline label, .has-success.radio label, .has-success.radio-inline label, .text-success {
-    color: #53e69d;
-}
-
-.homepage-tautulli-card{
-    margin-bottom: 17rem !important;
-}
-
-.homepage-tautulli-card .scrollable {
-   
-    margin-left: 9px;
-}
-
-
- .bg-img {
-    display: none;
-   }
-
- .homepage-tautulli-card .bg-img-cont {
-    border: 0;
-}
-
-.homepage-tautulli-card .card, .card-body {
-       height: 0;
-}
-
-#allMonitorr h3 {
-    font-size: 20px;
-}
-
-.homepage-tautulli-card .tautulliFirstItem {
-    height: 25px;
-    font-size: 14px;
-}
-
-
-#allSpeedtest {
-    padding-bottom: 150px;
-}
-
-
-#allMonitorr {
-    padding-bottom: 1px;
-}
-
 
 .all-netdata .chart-lg .gauge-chart, .all-netdata .gauge-cont.chart-lg {
     width: 450px !important;
